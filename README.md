@@ -1,5 +1,5 @@
 # Scamazon
-Completed Amazon giveaway tasks for you - so you don't have to.
+Completes Amazon giveaway tasks for you - so you don't have to.
 
 
 This project requires the Java Selenium Library and Chromedriver for browser control.
